@@ -1,2 +1,2 @@
 # TIME-STAMPED-SENSOR-DATA-LOGGER
-A real-time temperature logging system using LPC2148 records LM35 sensor data with timestamps, displays it on LCD, sends logs via UART, and triggers alerts on over-temperature.
+Embedded real-time temperature monitoring and logging system on LPC2148 featuring LM35 sensing, RTC-based timestamping, UART data logging, LCD display, keypad configuration, and over-temperature fault alerts.
