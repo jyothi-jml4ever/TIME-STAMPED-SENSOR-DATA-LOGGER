@@ -102,9 +102,11 @@ To continuously monitor temperature and maintain a reliable, time-stamped log of
 
 •academic embedded system projects
 
-## Virtual Circuit Connections
+
+## Virtual Circuit Connections on Proteus
 
 ![1772222151521-762304e9-127c-4897-9ca2-3c1baffb23d7_1](https://github.com/user-attachments/assets/3d143247-3c99-4806-9fef-2af74ac2cb40)
+
 
 ## AUTHOR
 
