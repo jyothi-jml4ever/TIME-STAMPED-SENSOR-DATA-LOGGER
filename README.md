@@ -53,57 +53,34 @@ To continuously monitor temperature and maintain a reliable, time-stamped log of
 
 ## Project Structure
 
+```
 TIME-STAMPED SENSOR DATA LOGGER
-
 │
-
 ├──adc.c
-
 ├──adc.h
-
 ├──adc_defines.h
-
 ├──defines.h
-
 ├──delay.c
-
 ├──delay.h
-
 ├──KeyPd.c
-
 ├──KeyPd.h
-
 ├──KeyPdDefines.h
-
 ├──lm35.c
-
 ├──lm35.h
-
 ├──main.c
-
 ├──main.h
-
 ├──main_fun.c
-
 ├──lcd.c
-
 ├──lcd.h
-
 ├──pin_connect.c
-
 ├──pin_connect.h
-
 ├──rtc.c
-
 ├──rtc.h
-
 ├──rtc_defines.h
-
 ├──types.h
-
 ├──uart.c
-
 └──uart.h
+```
 
 **Header Files (.h)**: Provide declarations and interfaces for each module.
 
@@ -170,7 +147,3 @@ TIME-STAMPED SENSOR DATA LOGGER
 
 ![1772222151521-762304e9-127c-4897-9ca2-3c1baffb23d7_1](https://github.com/user-attachments/assets/3d143247-3c99-4806-9fef-2af74ac2cb40)
 
-
-## AUTHOR
-
-Jyothi Priya
